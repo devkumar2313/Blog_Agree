@@ -1,0 +1,4 @@
+{
+ "db_url": "postgres://postgres:postgres@localhost:5432/blog_agree",
+ "current_user_name": "Dev Kumar Pal"
+}
