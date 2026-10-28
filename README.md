@@ -61,3 +61,9 @@ Once installed and configured, you can start interacting with Gator! Here are th
 ### Reading and Scraping
 * **`gator agg <time_duration>`**: Starts the long-running aggregator service. It will continuously fetch posts from all feeds in the database. (Example: `gator agg 1m` will fetch every 1 minute). Press `Ctrl+C` to stop.
 * **`gator browse [limit]`**: Views the latest posts saved to the database from the feeds you follow. The limit is optional (defaults to 2). (Example: `gator browse 10`)
+
+##
+Motivation
+Quick Start
+Usage
+Contributing
